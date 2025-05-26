@@ -75,7 +75,7 @@ export default function Portfolio() {
         <p>Email: suprobaha.rupu@gmail.com</p>
         <p>Phone: +44 7407 613275</p>
         <a
-  href="/resume.pdf"
+  href="/resume.docx"
   className="inline-block mt-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-semibold py-2 px-6 rounded-xl shadow hover:scale-105 transition"
   download
 >
